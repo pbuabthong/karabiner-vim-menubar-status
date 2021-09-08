@@ -3,7 +3,7 @@
   "maintainers": [
     "harmtemolder"
   ],
-  "homepage": "https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus",
+  "homepage": "https://github.com/pbuabthong/karabiner-vim-menubar-status",
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://git.sr.ht/~harmtemolder/karabiner-vim-mode-plus/blob/master/vim_mode_plus.json",
   "rules": [
     {
